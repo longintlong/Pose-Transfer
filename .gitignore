@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+/demo_data/
+/fashion_data/
+/fake_results/
+/HPE/result/
+/imgs/
+/network/weight/
+/.idea/
